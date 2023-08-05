@@ -1,0 +1,16 @@
+D:\THE_WITCHER\THE_WITCHER\bin\Debug\net5.0\THE_WITCHER.exe
+D:\THE_WITCHER\THE_WITCHER\bin\Debug\net5.0\THE_WITCHER.deps.json
+D:\THE_WITCHER\THE_WITCHER\bin\Debug\net5.0\THE_WITCHER.runtimeconfig.json
+D:\THE_WITCHER\THE_WITCHER\bin\Debug\net5.0\THE_WITCHER.runtimeconfig.dev.json
+D:\THE_WITCHER\THE_WITCHER\bin\Debug\net5.0\THE_WITCHER.dll
+D:\THE_WITCHER\THE_WITCHER\bin\Debug\net5.0\ref\THE_WITCHER.dll
+D:\THE_WITCHER\THE_WITCHER\bin\Debug\net5.0\THE_WITCHER.pdb
+D:\THE_WITCHER\THE_WITCHER\obj\Debug\net5.0\THE_WITCHER.csproj.AssemblyReference.cache
+D:\THE_WITCHER\THE_WITCHER\obj\Debug\net5.0\THE_WITCHER.GeneratedMSBuildEditorConfig.editorconfig
+D:\THE_WITCHER\THE_WITCHER\obj\Debug\net5.0\THE_WITCHER.AssemblyInfoInputs.cache
+D:\THE_WITCHER\THE_WITCHER\obj\Debug\net5.0\THE_WITCHER.AssemblyInfo.cs
+D:\THE_WITCHER\THE_WITCHER\obj\Debug\net5.0\THE_WITCHER.csproj.CoreCompileInputs.cache
+D:\THE_WITCHER\THE_WITCHER\obj\Debug\net5.0\THE_WITCHER.dll
+D:\THE_WITCHER\THE_WITCHER\obj\Debug\net5.0\ref\THE_WITCHER.dll
+D:\THE_WITCHER\THE_WITCHER\obj\Debug\net5.0\THE_WITCHER.pdb
+D:\THE_WITCHER\THE_WITCHER\obj\Debug\net5.0\THE_WITCHER.genruntimeconfig.cache

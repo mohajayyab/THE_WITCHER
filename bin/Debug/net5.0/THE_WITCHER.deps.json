@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "THE_WITCHER/1.0.0": {
+        "runtime": {
+          "THE_WITCHER.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "THE_WITCHER/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
